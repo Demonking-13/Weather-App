@@ -37,7 +37,7 @@ The app includes background images for the following weather conditions:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/react-weather-app.git
+   git clone https://github.com/Demonking-13/Weather-app.git
    cd react-weather-app
 
 2. **Install dependencies**
@@ -89,9 +89,10 @@ This app uses the **OpenWeatherMap API**. To get started:
 * Enable geolocation-based weather search
 * Add dark/light mode toggle
 
-## 📝 License
+## 👨‍💻 Author
 
-This project is licensed under the MIT License.
+**Devjit chowdhury**
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/devjit-chowdhury-77bba3248/) | [GitHub](https://github.com/Demonking-13) |[Gmail](devjitchowdhury2003@gmail.com)
 
 ---
 
