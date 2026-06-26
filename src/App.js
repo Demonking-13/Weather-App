@@ -1,8 +1,7 @@
 import React, { useState } from "react";
 import "./index.css";
 import axios from "axios";
-import { ReactDOM } from "react";
-import ReactAnimatedWeather from "react-animated-weather";
+
 
 import Haze_weather from "../src/assets/Haze_weather.jpg";
 import Clear_weather from "../src/assets/Clear_weather.jpg";
