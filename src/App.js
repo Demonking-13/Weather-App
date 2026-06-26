@@ -20,12 +20,7 @@ function App() {
 
   const url = `https://api.openweathermap.org/data/2.5/weather?q=${location}&units=imperial&appid=6117dc0081ee562ae393f62faa48f67a`;
 
-  const defaults = {
-    icon: "",
-    color: "white",
-    size: 70,
-    animate: true,
-  };
+
 
   const dateBuilder = (d) => {
     let months = [
